@@ -141,6 +141,23 @@ body{
     width: 500px;
 }
 
+/* _______ */
+/*  QUIZ   */
+/* _______ */
+
+#quiz{
+    border: 2px solid turquoise;
+    margin-top: 50px;
+}
+
+#quiz label{
+    margin-right: 10px;
+}
+
+#quiz td{
+    max-width: 700px;
+    padding-bottom: 20px;
+}
 
 /* _______ */
 /* BUTTONS */
